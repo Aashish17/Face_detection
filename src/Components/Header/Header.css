@@ -1,0 +1,24 @@
+.ak{
+
+	font-family: 'Sriracha', cursive;
+	
+	font-size: 30px;
+	text-transform: uppercase;
+	background: linear-gradient(to right,#22c1c3 0%, #fdbb2d 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+
+}
+
+.mk{
+
+
+
+  background: -webkit-linear-gradient(#40E0D0, #FF8C00 , #FF0080);
+   -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ 
+
+
