@@ -7,7 +7,7 @@ const Rank =()=>{
 
 	return(
 		<div className="ak">
-			<div className="f3 white">
+			<div className="f3 black">
 			{'Hey....Your Rank is'}
 			</div>
 
